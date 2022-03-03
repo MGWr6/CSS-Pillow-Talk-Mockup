@@ -1,0 +1,20 @@
+/* import a web font */
+@import url('https://fonts.googleapis.com/css2?family=Baloo+2&family=Fredoka+One&display=swap');
+
+* {
+    border: 1px solid mediumvioletred;
+}
+
+img {
+    width: 100px;
+}
+
+body {
+    background-color: snow;
+    color: slategrey;
+    margin: 20px 0;
+    font-family: 'Baloo 2', cursive;
+    text-align: center;
+}
+
+h1, h2, h3, h4,
